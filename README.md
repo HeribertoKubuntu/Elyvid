@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/cassidyjames/clairvoyant.svg?branch=master)](https://travis-ci.com/cassidyjames/clairvoyant)
-
 <p align="center">
   <img src="data/icons/128.svg" alt="Icon" />
 </p>
@@ -15,10 +13,9 @@ Do you need a push? Do you feel lonely? Do you tired? Discover the lucky message
 
 
 ## Made for [elementary OS](https://elementary.io)
+----
 
 Elyvid is designed and developed on and for [elementary OS](https://elementary.io).
-
-[![Get it on AppCenter](https://appcenter.elementary.io/badge.svg)](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant)
 
 **Note:** We hope Elyvid available soon on elementary OS Juno AppCenter.
 
@@ -42,7 +39,3 @@ To install, use `ninja install`, then execute with `com.github.heribertokubuntu.
 
     sudo ninja install
     com.github.heribertokubuntu.elyvid
-
------
-
-[![Get it on AppCenter](https://appcenter.elementary.io/badge.svg)](https://appcenter.elementary.io/com.github.cassidyjames.clairvoyant)
