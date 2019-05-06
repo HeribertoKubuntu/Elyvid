@@ -1,0 +1,191 @@
+# Spanish translations for com.github.heribertokubuntu.elyvid package.
+# Copyright (C) 2019 THE com.github.heribertokubuntu.elyvid'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.heribertokubuntu.elyvid package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.heribertokubuntu.elyvid\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-4 10:34+0100\n"
+"PO-Revision-Date: 2019-05-04 14:21-0500\n"
+"Last-Translator: Heriberto Delgado Garcia <heriberto@protonmail.com>\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:7
+#: data/launcher.desktop.in:3 src/MainWindow.vala:30
+msgid "Elyvid"
+msgstr "Elyvid"
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:8
+#: data/launcher.desktop.in:4
+msgid "Recibe buenos Deseos y Mensajes desde este lector de frases"
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:10
+msgid "¿Necesitas un empuje? ¿Te sientes solo? ¿Estás cansado?"
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:12
+msgid "¿Deseas un consejo, entonces abre Elyvid y recibe uno"
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:13
+msgid ""
+"No te ha gustado, entonces presiona el icono \"Ir a la siguiente frase\" "
+"para intentar de nuevo."
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:14
+msgid "Espero disfrutes de esta App."
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:35
+msgid "Elyvid soporta las versiones en Ingles y Español."
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:37
+msgid "Versión Inicial 1.0.0"
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:71
+msgid "Heriberto Delgado Garcia"
+msgstr ""
+
+#: data/launcher.desktop.in:6
+msgid "com.github.heribertokubuntu.elyvid"
+msgstr ""
+
+#: data/launcher.desktop.in:10
+msgid "magic;lucky;message;📑️"
+msgstr ""
+
+#: src/Content.vala:30
+msgid ""
+"Para tener éxito, no necesitas de un título. Éxitoso es aquel que sabe "
+"perder y todavía tiene una familia y amigos cariñosos."
+msgstr ""
+
+#: src/Content.vala:34
+msgid ""
+"Tus acciones te llevarán a la primera clave del éxito. Solo sigue trabajando "
+"en tus metas. Eso creará tu camino hacia el éxito."
+msgstr ""
+
+#: src/Content.vala:38
+msgid ""
+"La vida será mucho más fácil, cuando finalmente entendamos qué manos debemos "
+"estrechar y cuáles no dejar ir."
+msgstr ""
+
+#: src/Content.vala:42
+msgid ""
+"Fallar es el primer paso hacia el camino del éxito. Significa que estás "
+"intentando de todas las maneras posibles lograrlo en tu vida."
+msgstr ""
+
+#: src/Content.vala:46
+msgid ""
+"El secreto del éxito es la constancia. Sigue tus metas y trabaja duro. De lo "
+"contrario, el éxito es sólo un sueño."
+msgstr ""
+
+#: src/Content.vala:50
+msgid ""
+"No pierdas el tiempo mirando hacia atrás en lo que has perdido. Continúa, "
+"porque la vida no se hizo para retroceder."
+msgstr ""
+
+#: src/Content.vala:54
+msgid ""
+"La felicidad de la vida está dentro de ti. Mientras sientas que estás "
+"contento, eres feliz."
+msgstr ""
+
+#: src/Content.vala:58
+msgid ""
+"Otra definición de compartir es la felicidad. Cuanto más empiezas a "
+"compartir, más feliz eres en la vida."
+msgstr ""
+
+#: src/Content.vala:62
+msgid ""
+"No te detengas en el pasado. No sueñes con el futuro. Ahora es el momento. "
+"Ahora es momento para disfrutar la vida. Vive una vida feliz y saludable."
+msgstr ""
+
+#: src/Content.vala:66
+msgid ""
+"Sin batallas, no habrías entendido qué es vivir. La batalla hace que una "
+"persona comprenda lo que es la vida real."
+msgstr ""
+
+#: src/Content.vala:70
+msgid ""
+"El primer paso hacia el éxito se toma cuando te niegas a estar cautivo en el "
+"entorno en el que te encontrabas por primera vez."
+msgstr ""
+
+#: src/Content.vala:74
+msgid ""
+"Dentro de veinte años estarás más decepcionado por las cosas que no hiciste "
+"que por las que llegaste a hacer."
+msgstr ""
+
+#: src/Content.vala:78
+msgid ""
+"Hoy he tenido éxito porque tenía un amigo que creía en mí y no tuve el "
+"corazón para decepcionarlo."
+msgstr ""
+
+#: src/Content.vala:82
+msgid ""
+"Ámate a ti mismo primero y todo lo demás será alineado. Realmente tienes que "
+"amarte a ti mismo para hacer cualquier cosa en este mundo."
+msgstr ""
+
+#: src/Content.vala:86
+msgid ""
+"Los desafíos son lo que hace que la vida sea interesante y superarlos es lo "
+"que hace que la vida tenga un significado."
+msgstr ""
+
+#: src/Content.vala:90
+msgid ""
+"Estoy muy agradecido a Dios. Él ha enviado a la persona más hermosa y "
+"sorprendente en mi vida. Eres una bendición de Dios."
+msgstr ""
+
+#: src/Content.vala:94
+msgid ""
+"Tengo la bendición de tener tantas cosas maravillosas en mi vida: Mí "
+"familia, mis amigos y Dios. Todos estan en mis pensamientos diariamente."
+msgstr ""
+
+#: src/Content.vala:98
+msgid ""
+"Dios nos dio el regalo de la vida; Depende de nosotros darnos el don de "
+"vivir bien."
+msgstr ""
+
+#: src/Content.vala:102
+msgid ""
+"Suelta el ayer. Deja que hoy sea un nuevo comienzo y sea lo mejor que "
+"puedas, y llegarás a donde Dios quiere que estés."
+msgstr ""
+
+#: src/Content.vala:106
+msgid ""
+"Dios, no solo escribió el Evangelio en la Biblia, sino también en los "
+"árboles, y en las flores y las nubes y las estrellas."
+msgstr ""
+
+#: src/MainWindow.vala:44
+msgid "Siguiente frase"
+msgstr ""

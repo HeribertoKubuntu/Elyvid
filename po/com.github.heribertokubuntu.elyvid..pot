@@ -1,0 +1,154 @@
+# Elyvyd
+# Copyright (C) 2019 THE com.github.heribertokubuntu.elyvid'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.heribertokubuntu.elyvid package.
+# Automatically generated, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.heribertokubuntu.elyvid\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-4 10:34+0100\n"
+"PO-Revision-Date: 2019-05-4 10:34+0100\n"
+"Last-Translator: Heriberto Delgado Garcia <heriberto@protonmail.com>\n"
+"Language-Team: LANGUAGE <AbraHery@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:7
+#: data/launcher.desktop.in:3 src/MainWindow.vala:30
+msgid "Elyvid"
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:8
+msgid "Get Wishes and Messages from this phrases teller"
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:10
+msgid ""
+"Do you need a push? Do you feel lonely? Do you tired?"
+"Discover the lucky message for you and more with Elyvid."
+"The motivational random teller."
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:12
+msgid "Do you want advice, then open Elyvid and get one."
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:13
+msgid "Dont like it, then hit the icon \"Go Next Phrase\" icon to try again."
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:14
+msgid "I hope you enjoy this App."
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:35
+msgid "Elyvid support English and Spanish Version."
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:37
+msgid "Initial release 1.0.0"
+msgstr ""
+
+#: data/com.github.heribertokubuntu.elyvid.appdata.xml.in:71
+msgid "Heriberto Delgado Garcia"
+msgstr ""
+
+#: data/launcher.desktop.in:4
+msgid "Get Wishes and Messages from this phrases teller."
+msgstr ""
+
+#: data/launcher.desktop.in:6
+msgid "com.github.heribertokubuntu.elyvid"
+msgstr ""
+
+#: data/launcher.desktop.in:10
+msgid "magic;lucky;message;📑️"
+msgstr ""
+
+#: src/Content.vala:30
+msgid "To be successful, you don’t need a degree. Successful is he who knows to lose and still have a loving family and friends."
+msgstr ""
+
+#: src/Content.vala:34
+msgid "Your actions will take you to the top notch of success. Just keep working on your goals. It will create the path to success."
+msgstr ""
+
+#: src/Content.vala:38
+msgid "Life will become much easier, when we will finally understand which hands to shake & which ones to Hold."
+msgstr ""
+
+#: src/Content.vala:42
+msgid "Failing is the first step to the path of success. It means you are trying in every way to achieve it in your life."
+msgstr ""
+
+#: src/Content.vala:46
+msgid "The secrete to success is constancy. Stick to your purpose and work hard. Otherwise, success is just a dream."
+msgstr ""
+
+#: src/Content.vala:50
+msgid "Don’t waste your time looking back on what you’ve lost. Move on, for life is not meant to be traveled backwards."
+msgstr ""
+
+#: src/Content.vala:54
+msgid "Happiness of life lies within yourself. As long as you feel you are content, you are happy."
+msgstr ""
+
+#: src/Content.vala:58
+msgid "Another term of sharing is happiness. The more you start sharing, the more you are happy in life."
+msgstr ""
+
+#: src/Content.vala:62
+msgid "Don’t dwell in past. Don’t daydream of future. Now is the time. Now is the life to enjoy. Live a happy and healthy life."
+msgstr ""
+
+#: src/Content.vala:66
+msgid "Without struggle, you wouldn’t have known what life is. Struggle makes a person know what real life is."
+msgstr ""
+
+#: src/Content.vala:70
+msgid "The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself."
+msgstr ""
+
+#: src/Content.vala:74
+msgid "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do."
+msgstr ""
+
+#: src/Content.vala:78
+msgid "I’m a success today because I had a friend who believed in me and I didn’t have the heart to let him down."
+msgstr ""
+
+#: src/Content.vala:82
+msgid "Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world."
+msgstr ""
+
+#: src/Content.vala:86
+msgid "Challenges are what make life interesting and overcoming them is what makes life meaningful."
+msgstr ""
+
+#: src/Content.vala:90
+msgid "I am very grateful to God. He has sent the most beautiful and amazing person in my life. You are a blessing from God."
+msgstr ""
+
+#: src/Content.vala:94
+msgid "I am blessed to have so many great things in my life. Family, friends and God. All will be in my thoughts daily."
+msgstr ""
+
+#: src/Content.vala:98
+msgid "God gave us the gift of life; it is up to us to give ourselves the gift of living well."
+msgstr ""
+
+#: src/Content.vala:102
+msgid "Let go of yesterday. Let today be a new beginning and be the best that you can, and you'll get to where God wants you to be."
+msgstr ""
+
+#: src/Content.vala:106
+msgid "God writes the Gospel not in the Bible alone, but also on trees, and in the flowers and clouds and stars."
+msgstr ""
+
+#: src/MainWindow.vala:44
+msgid "Go Next Phrase"
+msgstr ""
