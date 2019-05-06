@@ -13,7 +13,6 @@ Do you need a push? Do you feel lonely? Do you tired? Discover the lucky message
 
 
 ## Made for [elementary OS](https://elementary.io)
-----
 
 Elyvid is designed and developed on and for [elementary OS](https://elementary.io).
 
