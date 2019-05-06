@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Heriberto Delgado Garcia <heriberto_delgado@protonmail.com> -->
+<component type="desktop">
+  <id>com.github.heribertokubuntu.elyvid.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <name>Elyvid</name>
+  <summary>Get Wishes and Messages from this phrases teller</summary>
+  <description>
+    <p>Do you need a push? Do you feel lonely? Do you tired? Discover the lucky message for you and more with Elyvid, the motivational random teller.</p>
+    <ul>
+      <li>Do you want advice, then open Elyvid and get one.</li>
+      <li>Dont like it, then hit the "Go Next Phrase" icon to try again.</li>
+      <li>I hope you enjoy this App!</li>
+    </ul>
+  </description>
+  <launchable type="desktop-id">com.github.heribertokubuntu.elyvid.desktop</launchable>
+  <provides>
+    <binary>com.github.heribertokubuntu.elyvid</binary>
+  </provides>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/cassidyjames/clairvoyant/master/data/Elyvid01.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/cassidyjames/clairvoyant/master/data/Elyvid02.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/cassidyjames/clairvoyant/master/data/Elyvid03.png</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="1.0.0" date="2019-05-03">
+      <description>
+        <p>Elyvid support English and Spanish Version.</p>
+        <ul>
+          <li>Initial release 1.0.0</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <developer_name>Heriberto Delgado Garcia</developer_name>
+  <url type="homepage">https://heriberto.updog.co/template/elyvid/elyvid/elyvid.html</url>
+  <url type="bugtracker">https://github.com/HeribertoKubuntu/Elyvid/issues</url>
+  <url type="donation">https://www.paypal.me/heriberto1717</url>
+  <custom>
+    <value key="x-appcenter-color-primary">#0e141f</value>
+    <value key="x-appcenter-color-primary-text">#fafafa</value>
+    <value key="x-appcenter-suggested-price">1</value>
+  </custom>
+</component>

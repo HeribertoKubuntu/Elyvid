@@ -1,0 +1,28 @@
+.title {
+  color: @SILVER_100;
+}
+
+.titlebar {
+  background-color: #ff8c82;
+}
+
+.elyvid{
+  background-image: linear-gradient(-180deg, #FFD0CC 0%, #f5f7fa 74%);
+}
+
+.Phrases {
+  font-size: 1.6em;
+  letter-spacing: -1.5px;
+}
+
+.message {
+  color: #273445;
+}
+
+.motivational {
+  color: #D40C4C;
+}
+
+.quote {
+  color: #5800F5;
+}

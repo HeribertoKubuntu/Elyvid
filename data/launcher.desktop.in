@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Elyvid
+GenericName=Lucky messages for you.
+Comment=Get Wishes and Messages from this phrases teller.
+Categories=Utility;Amusement;
+Exec=com.github.heribertokubuntu.elyvid
+Icon=com.github.heribertokubuntu.elyvid
+Terminal=false
+Type=Application
+Keywords=magic;lucky;message;📑️
